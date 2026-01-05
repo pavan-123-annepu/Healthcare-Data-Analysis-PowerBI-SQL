@@ -10,6 +10,6 @@ Total Revenue: ₹1.40bn.
 Peak Month: August (4,785 patients).
 
 Avg Recovery: 15.5 days.
-Dashboard img: <img width="1080" height="841" alt="Healthcare_Dashboard pbix" src="https://github.com/user-attachments/assets/e4d28dd3-3282-4b66-a35d-0a25227ebbe5" />
+ <img width="1080" height="841" alt="Healthcare_Dashboard pbix" src="https://github.com/user-attachments/assets/e4d28dd3-3282-4b66-a35d-0a25227ebbe5" />
 
 
