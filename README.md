@@ -13,10 +13,7 @@ SQL (Data Extraction), Power BI (Visualization), DAX (Calculations)
 . 📈 Peak Month: August (4,785 patients)
 
 . ⏱️ Avg Recovery: 15.5 days
- <img width="1080" height="841" alt="Healthcare_Dashboard pbix" src="https://github.com/user-attachments/assets/e4d28dd3-3282-4b66-a35d-0a25227ebbe5" />
-
-
-## 🚀 How to Use this Project
+ ![Healthcare Dashboard](./images/Healthcare_Dashboard.pbix)
 
 To explore this project on your local machine, follow these steps:
 
